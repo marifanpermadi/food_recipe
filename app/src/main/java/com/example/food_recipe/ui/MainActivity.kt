@@ -1,4 +1,4 @@
-package com.example.food_recipe
+package com.example.food_recipe.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,6 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.food_recipe.R
 import com.example.food_recipe.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
